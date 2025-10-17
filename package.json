@@ -3,7 +3,7 @@
   "version": "4.15.1",
   "description": "Leather 2.0 — Stacking",
   "prettier": "@stacks/prettier-config",
-  "homepage": "https://leather.io",
+  "homepage": "https://leatherwallet.co",
   "author": {
     "email": "contact@leather.io",
     "name": "Leather Wallet, LLC"
@@ -78,11 +78,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:leather-wallet/desktop.git"
+    "url": "https://github.com/linercon/desktop.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leather-wallet/desktop"
+    "url": "https://github.com/linercon/desktop/issues"
   },
   "devDependencies": {
     "@actions/core": "1.2.6",
